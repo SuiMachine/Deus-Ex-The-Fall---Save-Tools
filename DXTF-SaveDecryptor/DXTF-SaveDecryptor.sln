@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXTF-SaveDecryptor", "DXTF-SaveDecryptor.csproj", "{9B45DB68-27C8-4FAE-82D6-08E5056943FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXTF-SaveEncryptor", "..\DXTF-SaveEncryptor\DXTF-SaveEncryptor.csproj", "{B532A29B-F1D6-4B56-88B6-95905B4E0971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B45DB68-27C8-4FAE-82D6-08E5056943FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B45DB68-27C8-4FAE-82D6-08E5056943FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B45DB68-27C8-4FAE-82D6-08E5056943FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B45DB68-27C8-4FAE-82D6-08E5056943FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B532A29B-F1D6-4B56-88B6-95905B4E0971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B532A29B-F1D6-4B56-88B6-95905B4E0971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B532A29B-F1D6-4B56-88B6-95905B4E0971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B532A29B-F1D6-4B56-88B6-95905B4E0971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36BAAE6F-BE96-4FBE-971B-731ADEAED7A3}
+	EndGlobalSection
+EndGlobal

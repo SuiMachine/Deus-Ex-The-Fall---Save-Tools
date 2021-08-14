@@ -1,0 +1,9 @@
+# VS junk
+DXTF-SaveDecryptor/.vs/*
+DXTF-SaveEncryptor/.vs/*
+
+# Build junk
+DXTF-SaveDecryptor/bin/*
+DXTF-SaveDecryptor/obj/*
+DXTF-SaveEncryptor/bin/*
+DXTF-SaveEncryptor/obj/*
